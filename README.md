@@ -1,4 +1,4 @@
-# IconPageIndicator
+# Android IconPageIndicator
 Icon paging indicator widgets that are compatible with the ViewPager from the Android Support Library to improve discoverability of content.
 
 #Basic Usage
