@@ -2,7 +2,7 @@
 Icon paging indicator widgets that are compatible with the ViewPager from the Android Support Library to improve discoverability of content.
 
 #Basic Usage
-1.Include this widget in your view, it usually looks like this,
+1.Include this widget in your view, it usually looks like this.
 <pre>&lt;android.support.v4.view.ViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
